@@ -722,7 +722,7 @@ body::before {
     ytmusic-carousel-shelf-basic-header-renderer .header-group,
     ytmusic-carousel-shelf-basic-header-renderer .details {
         display: flex !important;
-        align-items: center !important;  /* Alinha tudo no centro vertical */
+        align-items: center !important;  
         flex-wrap: wrap !important;
         gap: 6px !important;
         width: 100% !important;
@@ -732,10 +732,10 @@ body::before {
             font-size: 18px;
             font-weight: 600;
             flex: 0 1 auto !important;
-            margin-right: auto !important;  /* Empurra os botões para a direita */
-            margin-bottom: 0 !important;    /* Remove o espaço extra */
-            padding-bottom: 0 !important;   /* Remove o padding extra */
-            border-bottom: none !important; /* Remove a borda inferior */
+            margin-right: auto !important;  
+            margin-bottom: 0 !important;    
+            padding-bottom: 0 !important;   
+            border-bottom: none !important; 
         }
         
         /* Grupo de botões (Tocar tudo/Mais + Setas) */
@@ -899,6 +899,6 @@ body::before {
         }
     }
 
-} /* << FIX CRÍTICO: Esta chave fecha corretamente a Media Query desktop de forma isolada e limpa! */
+} 
 
 }
