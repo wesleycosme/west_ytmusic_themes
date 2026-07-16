@@ -1,6 +1,7 @@
 # West Cosmic Youtube Music Theme
 
 Cosmic Theme for desktop interface of **YouTube Music**.
+
 The theme reorganizes Youtube Music interface for better layout and adds more color.
 
 ## 🚀 How Install
